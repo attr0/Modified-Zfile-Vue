@@ -8,7 +8,7 @@ Original project：https://github.com/zhaojun1998/zfile-vue
 
 只支持`Zfile2.9`，前端commit版本号为[f557851f61ee1898227f684e2be6adffe248049c](https://github.com/zhaojun1998/zfile-vue/tree/f557851f61ee1898227f684e2be6adffe248049c)
 
-解压目录中的`zfile-2.9.0.war`即可
+服务端解压目录中的`zfile-2.9.0.war`即可
 
 
 
